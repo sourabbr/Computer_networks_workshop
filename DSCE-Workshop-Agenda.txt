@@ -1,0 +1,36 @@
+DSCE Workshop - Agenda
+
+Note:
+    S1: 09:00 - 10:30
+    S2: 10:45 - 12:45
+    S3: 13:45 - 15:15
+    S4: 15:45 - 17:15
+
+24-03-2017
+----------
+S1: Intro to OSI layers, Wireshark (theory)
+S2: Intro to basic tools (nc, tcpdump, ping, traceroute, telnet, wget) and IP addressing
+    Hands on Wireshark:
+    Analyzing all protocol layers traffic with wireshark
+        Application, Transport, Network and Data link layer
+
+S3: Introduction to network delay (all 4 components)
+    Propagation, Transmission, PRocessing and Queuing
+S4: Handson exercises for Transmission, processing and Queuing delay
+
+25-03-2017
+-----------
+S1: Intro to IP routing and subnet (Theory)
+S2: Hands on exercise to build  1-router and 2-router networks
+S3: Intro to IPv6, and transitioning to IPv6
+S4: Hands on exercise on IPv6
+
+26-03-2017
+----------
+S1: Understanding ARP protocol and ARP spoofing
+    Hands-on exercises on ARP spoofing and eavesdropping by an attacker (MITM)
+S2: Intro to Switch self learning and MAC table. Hands on exercise with Flooding and broadcast storm.
+
+S3: (Optional): Catch up with previous exercises.
+    Overview of HTTP protocol and hands on with HTTP.
+S4: Summary and feed forward.
